@@ -12,7 +12,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: -extra-guestbook-ui
+  name: extra-guestbook-ui
 spec:
   ports:
   - port: 8080
